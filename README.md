@@ -116,8 +116,8 @@ Design, engineer, and deploy GPU-accelerated Kubernetes/OpenShift platforms supp
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: SC-3, SC-7, SC-13, CM-2, AC-3, SI-4
-- Zero Trust Pillars: *Device*, *Workload*, *Data*, *Network*
+- **RMF Controls**: [SC-3](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-3), [SC-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-7), [SC-13](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-13), [CM-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-2), [AC-3](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-3), [SI-4](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SI-4)
+- **Zero Trust Pillars**: *Device*, *Workload*, *Data*, *Network* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -145,8 +145,8 @@ Provide full lifecycle deployment of production-grade OpenShift/Kubernetes clust
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: AC-2, CM-6, SC-7, SC-28, IA-5, SI-2
-- Zero Trust Pillars: *Workload*, *Network*, *Automation & Orchestration*
+- **RMF Controls**: [AC-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-2), [CM-6](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-6), [SC-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-7), [SC-28](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-28), [IA-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=IA-5), [SI-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SI-2)
+- **Zero Trust Pillars**: *Workload*, *Network*, *Automation & Orchestration* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -174,8 +174,8 @@ Engineer secure, scalable hybrid or multi-cloud environments across AWS GovCloud
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: AC-20, SC-12, SC-13, PL-2, RA-3
-- Zero Trust Pillars: *Identity*, *Network*, *Data*, *Automation*
+- **RMF Controls**: [AC-20](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-20), [SC-12](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-12), [SC-13](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-13), [PL-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=PL-2), [RA-3](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=RA-3)
+- **Zero Trust Pillars**: *Identity*, *Network*, *Data*, *Automation* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -203,8 +203,8 @@ Develop and implement enterprise disaster recovery, continuity of operations (CO
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: CP-2, CP-4, CP-7, CP-10, SC-5
-- Zero Trust Pillars: *Workload*, *Network*, *Automation & Orchestration*
+- **RMF Controls**: [CP-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CP-2), [CP-4](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CP-4), [CP-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CP-7), [CP-10](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CP-10), [SC-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-5)
+- **Zero Trust Pillars**: *Workload*, *Network*, *Automation & Orchestration* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -232,8 +232,8 @@ Establish standardized GitOps workflows and governance using ArgoCD or FluxCD to
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: CM-2, CM-3, CM-5, SI-7, AC-3
-- Zero Trust Pillars: *Automation*, *Workload*, *Identity*
+- **RMF Controls**: [CM-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-2), [CM-3](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-3), [CM-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-5), [SI-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SI-7), [AC-3](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-3)
+- **Zero Trust Pillars**: *Automation*, *Workload*, *Identity* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -261,8 +261,8 @@ Deliver cloud-native security engineering capabilities incorporating ACS, Aqua, 
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: CA-7, SI-4, SC-7, RA-5, IA-2
-- Zero Trust Pillars: *Identity*, *Workload*, *Data*, *Automation*
+- **RMF Controls**: [CA-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CA-7), [SI-4](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SI-4), [SC-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-7), [RA-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=RA-5), [IA-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=IA-2)
+- **Zero Trust Pillars**: *Identity*, *Workload*, *Data*, *Automation* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -290,8 +290,8 @@ Execute structured migrations from legacy datacenters to AWS GovCloud or multi-c
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: PL-8, CM-8, RA-5, AC-6, SC-7
-- Zero Trust Pillars: *Identity*, *Workload*, *Data*
+- **RMF Controls**: [PL-8](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=PL-8), [CM-8](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=CM-8), [RA-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=RA-5), [AC-6](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AC-6), [SC-7](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SC-7)
+- **Zero Trust Pillars**: *Identity*, *Workload*, *Data* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 ***
 
@@ -319,7 +319,7 @@ Deploy enterprise observability platforms (Grafana, Kibana, OpenTelemetry) enabl
 
 ### RMF / Zero Trust Alignment
 
-- RMF Controls: AU-2, AU-6, SI-4, IR-5
-- Zero Trust Pillars: *Visibility & Analytics*, *Automation*, *Workload*
+- **RMF Controls**: [AU-2](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AU-2), [AU-6](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=AU-6), [SI-4](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=SI-4), [IR-5](https://csrc.nist.gov/projects/cprt/catalog#/cprt/framework/version/SP_800_53_5_1_0/home?element=IR-5)
+- **Zero Trust Pillars**: *Visibility & Analytics*, *Automation*, *Workload* ([CISA Zero Trust Maturity Model](https://www.cisa.gov/zero-trust-maturity-model))
 
 
