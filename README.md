@@ -1,4 +1,4 @@
-# KubernetesOfferings
+# Kubernetes Offerings
 
 ## Table of Contents
 
